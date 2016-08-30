@@ -1,0 +1,19 @@
+{
+  "name": "npm-depended-upon",
+  "description": "Fetch a list of npm modules which depend on a specific module.",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "dependencies": {
+    "node-fetch": "1.6.0"
+  },
+  "keywords": [
+    "npm",
+    "dependedUpon",
+    "dependencies"
+  ],
+  "license": "WTFPL",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  }
+}
