@@ -5,7 +5,7 @@ Fetch a list of npm modules which depend on a specific module.
 ## Installation:
 
 ```sh
-$ npm i pdehaan/npm-depended-upon -S
+$ npm i npm-depended-upon -S
 ```
 
 ## Usage:
