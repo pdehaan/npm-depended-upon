@@ -3,9 +3,14 @@
   "description": "Fetch a list of npm modules which depend on a specific module.",
   "version": "1.0.0",
   "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bugs": {
+    "url": "https://github.com/pdehaan/npm-depended-upon/issues"
+  },
   "dependencies": {
     "node-fetch": "1.6.0"
   },
+  "devDependencies": {},
+  "homepage": "https://github.com/pdehaan/npm-depended-upon#readme",
   "keywords": [
     "npm",
     "dependedUpon",
@@ -13,6 +18,10 @@
   ],
   "license": "WTFPL",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/npm-depended-upon.git"
+  },
   "scripts": {
     "test": "node test"
   }
